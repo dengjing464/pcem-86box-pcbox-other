@@ -6,3 +6,5 @@
 [86Box YouTube](https://www.youtube.com/@86Box)
 
 [86Box X/Twitter](https://x.com/86BoxEmulator)
+
+[86Box bsky](https://bsky.app/profile/86box.net)

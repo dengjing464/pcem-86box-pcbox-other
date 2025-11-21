@@ -3,6 +3,8 @@
 
 <img width="350" height="92" alt="image" src="https://github.com/user-attachments/assets/de2a0cbd-e8b0-483d-b1b0-cfc943e769ab" />
 
+[86Box official webstail](https://86box.net)
+
 [86Box YouTube](https://www.youtube.com/@86Box)
 
 [86Box X/Twitter](https://x.com/86BoxEmulator)

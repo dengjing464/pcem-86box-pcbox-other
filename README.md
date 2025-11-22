@@ -5,7 +5,10 @@
 
 <img width="350" height="92" alt="image" src="https://github.com/user-attachments/assets/de2a0cbd-e8b0-483d-b1b0-cfc943e769ab" />
 
+
 [86Box official webstite](https://86box.net)
+
+[sourceforge](https://sourceforge.net/projects/eighty-six-box.mirror/)
 
 [86Box YouTube](https://www.youtube.com/@86Box)
 

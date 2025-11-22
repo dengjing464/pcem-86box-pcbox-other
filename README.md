@@ -29,6 +29,13 @@
 
 Neko Project
 
+<img width="1620" height="1049" alt="image" src="https://github.com/user-attachments/assets/37c89b0a-6c02-416a-9107-b1d11969ea1f" />
+
+
+[Neko Project](https://simk98.github.io/np21w/index.html)
+
+[下载/download/ダウンロード](https://simk98.github.io/np21w/download.html
+
 My video webstite【我的视频网站】
 
 [哔哩哔哩/bilibili](https://space.bilibili.com/3494365582330231?spm_id_from=333.1007.0.0)

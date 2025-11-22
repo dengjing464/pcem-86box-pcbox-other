@@ -1,7 +1,7 @@
 # pcem-86box-pcbox-other
 测试运行pcem和86box和pcbox运行操作系统速度和时间
 
-[繁體中文](https://github.com/dengjing464/pcem-86box-pcbox-other/blob/main/README_Tr.Ch.md)[英语/English](https://github.com/dengjing464/pcem-86box-pcbox-other/blob/main/README_En.md)
+[繁體中文](https://github.com/dengjing464/pcem-86box-pcbox-other/blob/main/README_Tr.Ch.md) [英语/English](https://github.com/dengjing464/pcem-86box-pcbox-other/blob/main/README_En.md)
 
 86Box
 

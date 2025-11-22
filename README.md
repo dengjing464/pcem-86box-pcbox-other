@@ -11,6 +11,12 @@
 
 [86Box bsky](https://bsky.app/profile/86box.net)
 
+<img width="560" height="277" alt="image" src="https://github.com/user-attachments/assets/624ee989-1032-40c0-8b17-64e508d1dc74" />
+
+[PCem official webstite](https://www.pcem-emulator.co.uk/)
+
+[PCem github](https://github.com/sarah-walker-pcem/pcem)
+
 My video webstite【我的视频网站】
 
 [哔哩哔哩/bilibili](https://space.bilibili.com/3494365582330231?spm_id_from=333.1007.0.0)

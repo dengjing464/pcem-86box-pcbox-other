@@ -43,8 +43,7 @@ Neko Project
 
 winbox for 86box
 
-![Uploading image.png…]()
-
+<img width="360" height="345" alt="image" src="https://github.com/user-attachments/assets/4f6160a4-60a3-407c-99bb-495017a0bfc9" />
 
 [Github](https://github.com/bca009/WinBox-for-86Box)
 

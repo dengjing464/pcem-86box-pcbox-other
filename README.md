@@ -16,6 +16,10 @@
 
 [86Box bsky](https://bsky.app/profile/86box.net)
 
+86BoxManagerX
+
+[86BoxManagerX](https://github.com/RetBox/86BoxManagerX/tree/v1.7.6.0e)
+
 PCem
 
 <img width="560" height="277" alt="image" src="https://github.com/user-attachments/assets/624ee989-1032-40c0-8b17-64e508d1dc74" />

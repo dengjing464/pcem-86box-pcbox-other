@@ -31,10 +31,11 @@ Neko Project
 
 <img width="1620" height="1049" alt="image" src="https://github.com/user-attachments/assets/37c89b0a-6c02-416a-9107-b1d11969ea1f" />
 
+<img width="623" height="110" alt="image" src="https://github.com/user-attachments/assets/1e415981-7e7b-4ab7-bf57-23e3f1260d83" />
 
 [Neko Project](https://simk98.github.io/np21w/index.html)
 
-[下载/download/ダウンロード](https://simk98.github.io/np21w/download.html
+[下载/download/ダウンロード](https://simk98.github.io/np21w/download.html)
 
 My video webstite【我的视频网站】
 
